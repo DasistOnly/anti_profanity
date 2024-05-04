@@ -4,7 +4,7 @@ This FiveM resource provides a plug-and-play solution for detecting and blocking
 
 ## Installation
 
-Its Plug and Play, just drag and drop the folder into your resources folder and add `start anti_prfanity` to your server.cfg file.
+Its Plug and Play, just drag and drop the folder into your resources folder and add `start anti_profanity` to your server.cfg file.
 
 ## Usage
 
